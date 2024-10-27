@@ -11,7 +11,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RVKPP-Lakmina&show_icons=true&theme=radical)
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/rvkp-priyashan-lakmina/)
