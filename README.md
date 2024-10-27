@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Pramesh!
 
 ### 🚀 About Me
-- 🧑‍💻 Full Stack Developer | Currently learning more about Backend Development with Spring Boot
+- 🧑‍💻 Full Stack Developer | Passionate about creating efficient, scalable web applications
 - 🎓 Informatics Institute of Technology Student
 - 🌍 Aspiring to be the Best Software Engineer in the World!
+- 🌱 Currently deepening my skills in backend development with **Spring Boot** and exploring **DevOps** tools
 
-### 🛠️ Tech Stack
 ### 🛠️ Tech Stack
 
 #### Frontend
@@ -14,6 +14,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![HookState](https://img.shields.io/badge/-HookState-FF8C00?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
