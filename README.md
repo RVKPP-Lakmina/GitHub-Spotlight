@@ -8,9 +8,9 @@
 
 ### 🛠️ Tech Stack
 
-@Getter
-@Setter
-public class Pramesh {
+    @Getter
+    @Setter
+    public class Pramesh {
     private String[] code = {"Java", "Javascript", "Typescript", "HTML", "CSS", "Python"};
     private String[] tools = {"Redux", "Node", "Styled-Components", "Docker", "Postman"};
     private String[] frameworks = {"React", "Spring Boot", "Flask", "Vue.js", "Next.js"};
@@ -25,7 +25,8 @@ public class Pramesh {
         System.out.println("📫 Architecture: " + Arrays.toString(pramesh.getArchitecture()));
         System.out.println("🚀 Interests: " + Arrays.toString(pramesh.getInterests()));
     }
-}
+    }
+
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
